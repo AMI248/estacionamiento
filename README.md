@@ -1,2 +1,0 @@
-# estacionamiento
-calculo de estacionamiento
